@@ -1,0 +1,26 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=17ad81ae_002De71e_002D4408_002D9039_002Da89f7833ac1e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GivenEmptyString_WhenAddMethodCalled_ThenReturnZero #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::723CCF73-D851-4A3C-BC65-6874AD759615::net6.0::CalculatorTests.UnitTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=20fe6b92_002D5ecb_002D4459_002D9e51_002De29fa8537539/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GivenNumberStringWithMultipleDelimiters_WhenAddMethodCalled_ThenReturnSumOfAllNumbersAsInteger" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::723CCF73-D851-4A3C-BC65-6874AD759615::net6.0::CalculatorTests.UnitTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=53f39dab_002Db96c_002D418a_002D971f_002D3bc3895bc21b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GivenEmptyString_WhenAddMethodCalled_ThenReturnZero #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::723CCF73-D851-4A3C-BC65-6874AD759615::net6.0::CalculatorTests.UnitTests.GivenEmptyString_WhenAddMethodCalled_ThenReturnZero&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=83d51147_002D3b7d_002D4598_002D92ac_002Dfce3229d1ef8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GivenEmptyString_WhenAddMethodCalled_ThenReturnZero #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::723CCF73-D851-4A3C-BC65-6874AD759615::net6.0::CalculatorTests.UnitTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fa322bb1_002Da529_002D48a1_002D97aa_002Dd883a1a814d5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GivenEmptyString_WhenAddMethodCalled_ThenReturnZero" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::723CCF73-D851-4A3C-BC65-6874AD759615::net6.0::CalculatorTests.UnitTest1.GivenEmptyString_WhenAddMethodCalled_ThenReturnZero&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

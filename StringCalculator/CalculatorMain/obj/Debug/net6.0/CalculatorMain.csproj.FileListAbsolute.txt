@@ -1,0 +1,15 @@
+/Users/Mitchell.Wong/Desktop/StringCalculator/CalculatorMain/obj/Debug/net6.0/CalculatorMain.csproj.AssemblyReference.cache
+/Users/Mitchell.Wong/Desktop/StringCalculator/CalculatorMain/obj/Debug/net6.0/CalculatorMain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Mitchell.Wong/Desktop/StringCalculator/CalculatorMain/obj/Debug/net6.0/CalculatorMain.AssemblyInfoInputs.cache
+/Users/Mitchell.Wong/Desktop/StringCalculator/CalculatorMain/obj/Debug/net6.0/CalculatorMain.AssemblyInfo.cs
+/Users/Mitchell.Wong/Desktop/StringCalculator/CalculatorMain/obj/Debug/net6.0/CalculatorMain.csproj.CoreCompileInputs.cache
+/Users/Mitchell.Wong/Desktop/StringCalculator/CalculatorMain/bin/Debug/net6.0/CalculatorMain
+/Users/Mitchell.Wong/Desktop/StringCalculator/CalculatorMain/bin/Debug/net6.0/CalculatorMain.deps.json
+/Users/Mitchell.Wong/Desktop/StringCalculator/CalculatorMain/bin/Debug/net6.0/CalculatorMain.runtimeconfig.json
+/Users/Mitchell.Wong/Desktop/StringCalculator/CalculatorMain/bin/Debug/net6.0/CalculatorMain.dll
+/Users/Mitchell.Wong/Desktop/StringCalculator/CalculatorMain/bin/Debug/net6.0/CalculatorMain.pdb
+/Users/Mitchell.Wong/Desktop/StringCalculator/CalculatorMain/obj/Debug/net6.0/CalculatorMain.dll
+/Users/Mitchell.Wong/Desktop/StringCalculator/CalculatorMain/obj/Debug/net6.0/refint/CalculatorMain.dll
+/Users/Mitchell.Wong/Desktop/StringCalculator/CalculatorMain/obj/Debug/net6.0/CalculatorMain.pdb
+/Users/Mitchell.Wong/Desktop/StringCalculator/CalculatorMain/obj/Debug/net6.0/CalculatorMain.genruntimeconfig.cache
+/Users/Mitchell.Wong/Desktop/StringCalculator/CalculatorMain/obj/Debug/net6.0/ref/CalculatorMain.dll

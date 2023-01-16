@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3c997c2c_002Ddea2_002D4798_002D8fbf_002D5d68501052ae/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="DiceTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::3F6449AB-CE58-4C38-B293-570CE5A52087::net6.0::YahtzyKataTests.DiceTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7162c72f_002D52aa_002D45bf_002D9e02_002D55deb39d12da/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GivenPlayerDie_WhenThePlayerSelectsSmallStraight_ThenReturnSmallStraightScore(inputDiceValues: [3, 4, 5, 6, 6], expected: 30)" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/Users/Mitchell.Wong/Desktop/YahtzyKata/YahtzyKataTests" Presentation="&amp;lt;YahtzyKataTests&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ca47aadd_002D03ff_002D4620_002Db3f1_002D65bc57b17e53/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="DiceTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/Users/Mitchell.Wong/Desktop/YahtzyKata/YahtzyKataTests" Presentation="&amp;lt;YahtzyKataTests&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
